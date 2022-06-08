@@ -1,2 +1,2 @@
-# INFS-7140-Project
-Simple, comprehensive python project
+# Advanced Python for Data Analysis Project
+Simple, comprehensive python project completed first semester @ RMU
